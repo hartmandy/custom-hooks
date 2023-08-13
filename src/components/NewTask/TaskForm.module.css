@@ -4,7 +4,7 @@
 }
 
 .form input {
-  font:inherit;
+  font: inherit;
   padding: 0.25rem;
   border: none;
   border-bottom: 3px solid #ccc;
@@ -14,5 +14,5 @@
 
 .form input:focus {
   outline: none;
-  border-color: #7a0144;
+  border-color: rgb(38, 1, 148);
 }
